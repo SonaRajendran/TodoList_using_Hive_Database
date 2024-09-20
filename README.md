@@ -1,4 +1,3 @@
-
 ##Todo List App
 
 This is a Flutter application that allows users to create, manage, and delete Todo list items. The app uses Hive, a NoSQL database, to store and retrieve Todo items.
