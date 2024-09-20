@@ -4,11 +4,11 @@ This is a Flutter application that allows users to create, manage, and delete To
 
 ## Features
 
-- 1)Create new Todo items with title, description, and due date
-- 2)View and manage existing Todo items in a list
-- 3)Mark Todo items as completed
-- 4)Delete Todo items
-- 5)Store and retrieve Todo items using Hive database
+- Create new Todo items with title, description, and due date
+- View and manage existing Todo items in a list
+- Mark Todo items as completed
+- Delete Todo items
+- Store and retrieve Todo items using Hive database
 
 ## Code Structure
 
@@ -25,12 +25,12 @@ This is a Flutter application that allows users to create, manage, and delete To
 
 ## How to Use
 
-- 1)Clone the repository and open it in your preferred IDE.
-- 2)Run the app using flutter run.
-- 3)Create new Todo items by clicking the "+" button and filling in the title and description.
-- 4)View and manage existing Todo items in the list.
-- 5)Mark Todo items as completed by clicking the checkbox.
-- 6)Delete Todo items by swiping left on the item.
+- Clone the repository and open it in your preferred IDE.
+- Run the app using flutter run.
+- Create new Todo items by clicking the "+" button and filling in the title and description.
+- View and manage existing Todo items in the list.
+- Mark Todo items as completed by clicking the checkbox.
+- Delete Todo items by swiping left on the item.
 
 ## Note
 
